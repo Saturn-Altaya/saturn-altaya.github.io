@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.saturnaltaya.lunnyson",
+        "sha256_cert_fingerprints": ["31:F6:20:26:F3:71:5C:D9:07:54:06:50:E9:DA:71:5C:57:31:77:ED:F5:B5:9F:87:95:E7:CF:11:22:79:85:64"]
+      }
+    }]
